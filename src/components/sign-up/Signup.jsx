@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import UserService from '../../service/UserService';
 import { Form, FormGroup, Label, Input, Button } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './Signup.css';
+import './signup.css';
 import { ToastContainer, toast } from 'react-toastify'; // Import toast and ToastContainer
 import 'react-toastify/dist/ReactToastify.css'; // Import CSS for toast notifications
 
