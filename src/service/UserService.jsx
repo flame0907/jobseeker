@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "https://wajk43xg.up.railway.app";
+const USER_API_BASE_URL = "http://localhost:9070/signup/insert";
 
 class UserService {
   saveUser(user) {
